@@ -1,0 +1,42 @@
+{
+    "nome": "Lucy",
+    "acoes": [
+        {
+            "nome": "abrir",
+            "objetos": [
+                "desktop",
+                "pasta de downloads",
+                "chrome",
+                "gerenciador de tarefas",
+                "spotify",
+                "discord"
+            ]
+        },
+        {
+            "nome": "fechar",
+            "objetos": [
+                "desktop",
+                "pasta de downloads",
+                "chrome",
+                "gerenciador de tarefas",
+                "spotify",
+                "discord"
+            ]
+        },
+        {
+            "nome": "pesquisar no sistema",
+            "objetos": [
+                "notion",
+                "visual studio code",
+                "spotify",
+                "discord"
+            ]
+        },
+        {
+            "nome": "pesquisar no google",
+            "objetos": [
+                
+            ]
+        }
+    ]
+}
